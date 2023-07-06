@@ -1,0 +1,24 @@
+.body{
+    /* border: 2px solid red; */
+    height: 50vh;
+    background: #000;
+    color: white;   
+    /* text-align: center; */
+    padding-top: 50px;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.body button{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background: rgb(49, 178, 248);
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
